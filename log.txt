@@ -1,0 +1,20 @@
+/home/nikita/web/yandex/business card site/deploy/stylesheets/mobile320.cssFile size: 772 
+/home/nikita/web/yandex/business card site/deploy/stylesheets/tablet600.cssFile size: 611 
+/home/nikita/web/yandex/business card site/minifyFile size: 573 
+/home/nikita/web/yandex/business card site/source/stylesheets/mobile320.css.mapFile size: 375 
+/home/nikita/web/yandex/business card site/source/stylesheets/tablet600.css.mapFile size: 328 
+/home/nikita/web/yandex/business card site/source/stylesheets/tablet600.sassFile size: 751 
+/home/nikita/web/yandex/business card site/source/stylesheets/mobile320.cssFile size: 1023 
+/home/nikita/web/yandex/business card site/source/stylesheets/mobile320.sassFile size: 942 
+/home/nikita/web/yandex/business card site/source/stylesheets/tablet600.cssFile size: 828 
+/home/nikita/web/yandex/scndtask/src/index.htmlFile size: 846 
+/home/nikita/web/yandex/calendar/sources/2019/clojure.jsonFile size: 312 
+/home/nikita/web/yandex/calendar/sources/2019/dotnet.jsonFile size: 883 
+/home/nikita/web/yandex/calendar/sources/2019/graphql.jsonFile size: 949 
+/home/nikita/web/yandex/calendar/sources/2019/elixir.jsonFile size: 1202 
+/home/nikita/web/yandex/calendar/scripts/lol.cssFile size: 1349 
+/home/nikita/web/yandex/calendar/scripts/data.jsFile size: 785 
+/home/nikita/web/yandex/calendar/favicon.icoFile size: 318 
+/home/nikita/web/yandex/calendar/main.css.mapFile size: 1367 
+/home/nikita/web/yandex/README.mdFile size: 550 
+/home/nikita/web/yandex/LICENSEFile size: 1070 
